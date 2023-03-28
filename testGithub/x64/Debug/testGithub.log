@@ -1,0 +1,9 @@
+﻿  uic testGithub.ui
+  rcc testGithub.qrc
+  moc testGithub.h
+   RCC: Warning: No resources in 'E:\VS_chengxu\testGithub\testGithub.qrc'.
+  testGithub.cpp
+  main.cpp
+  qrc_testGithub.cpp
+  moc_testGithub.cpp
+  testGithub.vcxproj -> E:\VS_chengxu\testGithub\x64\Debug\testGithub.exe
